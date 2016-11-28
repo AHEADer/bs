@@ -66,6 +66,7 @@ class LoginController extends Controller {
 				'useNoise'    =>    false, // 关闭验证码杂点
 				'fontttf'	=>'4.ttf'
 			);
+        ob_clean();
 		$Verify = new \Think\Verify($config);
 		$Verify->entry();
 	}
