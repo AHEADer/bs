@@ -317,17 +317,9 @@
                     menus:[
                         {
                             id:'printAll',              //id要唯一
-                            text:'查看'+obj.ktName+'的报审表',        //菜单文字
-                            fn:function(){
-                                window.open("{:U('/Home/Bs/viewkt')}?bid="+obj.ktId);
-                            }
-                        },{
-                            sepline:true                //分割线
-                        },{
-                            id:'print2All',              //id要唯一
                             text:'查看'+obj.ktName+'的任务书',        //菜单文字
                             fn:function(){
-                                window.open("{:U('/Home/Bs/viewrw')}?bid="+obj.ktId);
+                                window.open("{:U('/Home/Bs/viewkt')}?bid="+obj.ktId);
                             }
                         },{
                             sepline:true                //分割线
@@ -407,8 +399,7 @@
 
                     </div>
                     <input type="button" name="teacher-sort" id="teacher-sort" class="button bg-main" style="margin-left:10px" value="按教师排序" onclick="javascript:sort_onclick();"/>
-                    <input type="button" name="printall" id="printall" class="button bg-main" style="margin-left:10px" value="报审表" onclick="javascript:print_all();"/>
-                    <input type="button" name="printall" id="printall" class="button bg-main" style="margin-left:10px" value="任务书" onclick="javascript:print2_all();"/>
+                    <input type="button" name="printall" id="printall" class="button bg-main" style="margin-left:10px" value="批量打印" onclick="javascript:print_all();"/>
                     <!--结果区域--->
                     <div class='right-result'>
                         <div class='right-result-head'></div>
@@ -477,22 +468,6 @@
                                 str_arr=str_arr+oTab[i].getAttribute('data_id')+"_";
                             }
                             window.location.assign("/index.php/Home/Bs/viewkt.html?bid="+str_arr);
-                        };
-
-                        function print2_all(){
-                            /*for(var i=0;i<oTab.length;i++)
-                            {
-                                alert("第"+(i+1)+"个的ID="+oTab[i]);
-                            }*/
-                            var oTab=document.getElementsByClassName("viewkt");    //获取表格
-                            //alert("length is"+oTab.length);
-                            var str_arr = "";
-                            for (var i=0;i<oTab.length;i++)
-                            {
-                                //oTab[i]=oTab[i].getAttribute('data_id');
-                                str_arr=str_arr+oTab[i].getAttribute('data_id')+"_";
-                            }
-                            window.location.assign("/index.php/Home/Bs/viewrw.html?bid="+str_arr);
                         };
                 </script>
 

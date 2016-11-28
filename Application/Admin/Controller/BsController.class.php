@@ -119,5 +119,102 @@ class BsController extends Controller {
         }
         $this->ajaxReturn($rs);
     }
+    // 2016-5-31
+    public function toexcel1()
+    {
+    	vendor('PHPExcel.PHPExcel');
+    	$resultPHPExcel = new \PHPExcel();
+		$resultPHPExcel->getActiveSheet()->setCellValue('A1','课题名'); 
+		$resultPHPExcel->getActiveSheet()->setCellValue('B1','导师名'); 
+		$resultPHPExcel->getActiveSheet()->setCellValue('C1','学生学号'); 
+		$resultPHPExcel->getActiveSheet()->setCellValue('D1','班级');
+		$resultPHPExcel->getActiveSheet()->setCellValue('E1','学生名');
+		$i = 2;
+		$result = M('bs_kt')->where(array('status'=>3))->select();
+		foreach ($result as $key => $value) {
+			$resultPHPExcel->getActiveSheet()->setCellValue('A'.$i,$value['name']);
+			$teacher = M('user_teacher')->where(array('user'=>$value['teacher']))->find();
+			$resultPHPExcel->getActiveSheet()->setCellValue('B'.$i,empty($teacher['name'])?'':$teacher['name']); 
+			$xt = M('bs_xt')->where(array('bid'=>$value['id']))->find();
+			if (!$xt) continue;
+			$student = M('user_student')->where(array('user'=>$xt['sid']))->find();
+			if(!$student) continue;
+			$resultPHPExcel->getActiveSheet()->setCellValue('C'.$i,$xt['sid']); 
+			$resultPHPExcel->getActiveSheet()->setCellValue('D'.$i,empty($student['class'])?'':$student['class']);
+			$resultPHPExcel->getActiveSheet()->setCellValue('E'.$i,empty($student['name'])?'':$student['name']);
+			$i++;
+		}
+		$outputFileName = time().'.xls'; 
+		$xlsWriter = new \PHPExcel_Writer_Excel5($resultPHPExcel);
+		header("Content-Type: application/force-download"); 
+		header("Content-Type: application/octet-stream"); 
+		header("Content-Type: application/download"); 
+		header('Content-Disposition:inline;filename="'.$outputFileName.'"'); 
+		header("Content-Transfer-Encoding: binary"); 
+		header("Expires: Mon, 26 Jul 1997 05:00:00 GMT"); 
+		header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT"); 
+		header("Cache-Control: must-revalidate, post-check=0, pre-check=0"); 
+		header("Pragma: no-cache"); 
+		$xlsWriter->save( "php://output" );
+    }
+    public function toexcel2()
+    {
+    	vendor('PHPExcel.PHPExcel');
+    	$resultPHPExcel = new \PHPExcel();
+		$resultPHPExcel->getActiveSheet()->setCellValue('A1','学生学号'); 
+		$resultPHPExcel->getActiveSheet()->setCellValue('B1','学生名'); 
+		$resultPHPExcel->getActiveSheet()->setCellValue('C1','班级'); 
+		$i = 2;
+		$all_user = M('user_student')->where(array('status'=>1))->select();
+		foreach ($all_user as $key => $value) {
+			$is_no = M('bs_xt')->where(array('sid'=>$value['user']))->count();
+			if($is_no > 0) continue;
+			$resultPHPExcel->getActiveSheet()->setCellValue('A'.$i,$value['user']); 
+			$resultPHPExcel->getActiveSheet()->setCellValue('B'.$i,$value['name']); 
+			$resultPHPExcel->getActiveSheet()->setCellValue('C'.$i,$value['class']); 
+			$i++;
+		}
+		$outputFileName = time().'.xls'; 
+		$xlsWriter = new \PHPExcel_Writer_Excel5($resultPHPExcel); 
+		header("Content-Type: application/force-download"); 
+		header("Content-Type: application/octet-stream"); 
+		header("Content-Type: application/download"); 
+		header('Content-Disposition:inline;filename="'.$outputFileName.'"'); 
+		header("Content-Transfer-Encoding: binary"); 
+		header("Expires: Mon, 26 Jul 1997 05:00:00 GMT"); 
+		header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT"); 
+		header("Cache-Control: must-revalidate, post-check=0, pre-check=0"); 
+		header("Pragma: no-cache"); 
+		$xlsWriter->save( "php://output" );
+    }
+    public function toexcel3()
+    {
+    	vendor('PHPExcel.PHPExcel');
+    	$resultPHPExcel = new \PHPExcel();
+		$resultPHPExcel->getActiveSheet()->setCellValue('A1','教师账号'); 
+		$resultPHPExcel->getActiveSheet()->setCellValue('B1','导师名');
+		$i = 2;
+		$all_user = M('user_teacher')->where(array('status'=>1))->select();
+		foreach ($all_user as $key => $value) {
+			$xt_count = M('bs_kt')->where(array('teacher'=>$value['user'],'status'=>3))->count();
+			if ($xt_count > 0) continue;
+			$resultPHPExcel->getActiveSheet()->setCellValue('A'.$i,$value['user']); 
+			$resultPHPExcel->getActiveSheet()->setCellValue('B'.$i,$value['name']);
+			$i++;
+		}
+		$outputFileName = time().'.xls'; 
+		$xlsWriter = new \PHPExcel_Writer_Excel5($resultPHPExcel); 
+		header("Content-Type: application/force-download"); 
+		header("Content-Type: application/octet-stream"); 
+		header("Content-Type: application/download"); 
+		header('Content-Disposition:inline;filename="'.$outputFileName.'"'); 
+		header("Content-Transfer-Encoding: binary"); 
+		header("Expires: Mon, 26 Jul 1997 05:00:00 GMT"); 
+		header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT"); 
+		header("Cache-Control: must-revalidate, post-check=0, pre-check=0"); 
+		header("Pragma: no-cache"); 
+		$xlsWriter->save( "php://output" );
+    }
+    // 2016-5-31
 	
 }

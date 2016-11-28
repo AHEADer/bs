@@ -1,0 +1,1801 @@
+[ 2016-04-21T16:09:45+08:00 ] 127.0.0.1 /
+ERR: No such file or directory
+
+[ 2016-04-21T16:09:45+08:00 ] 127.0.0.1 /
+ERR: No such file or directory
+
+[ 2016-04-21T16:09:46+08:00 ] 127.0.0.1 /
+ERR: No such file or directory
+
+[ 2016-04-21T16:09:46+08:00 ] 127.0.0.1 /
+ERR: No such file or directory
+
+[ 2016-04-21T16:10:01+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001122s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): No such file or directory /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: No such file or directory
+
+[ 2016-04-21T16:49:13+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002306s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): No such file or directory /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: No such file or directory
+
+[ 2016-04-21T16:49:13+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): No such file or directory /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: No such file or directory
+
+[ 2016-04-21T16:49:14+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): No such file or directory /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: No such file or directory
+
+[ 2016-04-21T16:49:19+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001666s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): No such file or directory /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: No such file or directory
+
+[ 2016-04-21T16:50:52+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): No such file or directory /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: No such file or directory
+
+[ 2016-04-21T16:50:52+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): No such file or directory /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: No such file or directory
+
+[ 2016-04-21T16:50:56+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): No such file or directory /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: No such file or directory
+
+[ 2016-04-21T16:50:56+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): No such file or directory /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: No such file or directory
+
+[ 2016-04-21T16:50:56+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): No such file or directory /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: No such file or directory
+
+[ 2016-04-21T16:51:14+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): No such file or directory /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: No such file or directory
+
+[ 2016-04-21T16:51:14+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): No such file or directory /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: No such file or directory
+
+[ 2016-04-21T16:53:56+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): No such file or directory /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: No such file or directory
+
+[ 2016-04-21T17:08:12+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Unknown database 'bs'
+
+[ 2016-04-21T17:08:33+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.002718s ]
+ERR: 1146:Table 'biyesheji.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `home_link` [ RunTime:0.003443s ]
+SQL: SELECT * FROM `home_link` LIMIT 0,5   [ RunTime:0.001141s ]
+SQL: SHOW COLUMNS FROM `home_plan` [ RunTime:0.002300s ]
+SQL: SELECT * FROM `home_plan`  [ RunTime:0.000419s ]
+SQL: select * from home_news order by publishtime desc limit 0,5 [ RunTime:0.001356s ]
+SQL: SHOW COLUMNS FROM `home_doc` [ RunTime:0.002204s ]
+SQL: SELECT * FROM `home_doc` LIMIT 0,5   [ RunTime:0.000358s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Use of undefined constant login - assumed 'login' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.017714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017786s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000190s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2016-04-21T17:08:36+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.010029s ]
+ERR: 1146:Table 'biyesheji.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `home_link` [ RunTime:0.002970s ]
+SQL: SELECT * FROM `home_link` LIMIT 0,5   [ RunTime:0.000322s ]
+SQL: SHOW COLUMNS FROM `home_plan` [ RunTime:0.001489s ]
+SQL: SELECT * FROM `home_plan`  [ RunTime:0.000460s ]
+SQL: select * from home_news order by publishtime desc limit 0,5 [ RunTime:0.001744s ]
+SQL: SHOW COLUMNS FROM `home_doc` [ RunTime:0.003517s ]
+SQL: SELECT * FROM `home_doc` LIMIT 0,5   [ RunTime:0.000313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Use of undefined constant login - assumed 'login' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009172s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009218s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000923s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000998s ]
+
+[ 2016-04-21T17:08:36+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.009048s ]
+ERR: 1146:Table 'biyesheji.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `home_link` [ RunTime:0.001978s ]
+SQL: SELECT * FROM `home_link` LIMIT 0,5   [ RunTime:0.000297s ]
+SQL: SHOW COLUMNS FROM `home_plan` [ RunTime:0.001514s ]
+SQL: SELECT * FROM `home_plan`  [ RunTime:0.000353s ]
+SQL: select * from home_news order by publishtime desc limit 0,5 [ RunTime:0.000362s ]
+SQL: SHOW COLUMNS FROM `home_doc` [ RunTime:0.001443s ]
+SQL: SELECT * FROM `home_doc` LIMIT 0,5   [ RunTime:0.000309s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+NOTIC: [8] Use of undefined constant login - assumed 'login' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013923s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013971s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000507s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2016-04-21T17:09:05+08:00 ] 127.0.0.1 /index.php/Home/Login/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001129s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006124s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2016-04-21T17:09:05+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+
+[ 2016-04-21T17:12:44+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+
+[ 2016-04-21T17:12:47+08:00 ] 127.0.0.1 /index.php/Home/Login/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005675s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2016-04-21T17:12:47+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+
+[ 2016-04-21T17:12:56+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-04-21T17:13:40+08:00 ] 127.0.0.1 /index.php/Home/Login/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013751s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013834s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000226s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-04-21T17:13:40+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+
+[ 2016-04-21T17:13:42+08:00 ] 127.0.0.1 /index.php/Home/Login/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016341s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-04-21T17:13:42+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+
+[ 2016-04-21T17:13:42+08:00 ] 127.0.0.1 /index.php/Home/Login/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000182s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2016-04-21T17:13:42+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+
+[ 2016-04-21T17:13:42+08:00 ] 127.0.0.1 /index.php/Home/Login/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016690s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016768s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000993s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001329s ]
+
+[ 2016-04-21T17:13:43+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+
+[ 2016-04-21T17:17:03+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001956s ]
+
+[ 2016-04-21T17:18:27+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001264s ]
+
+[ 2016-04-21T17:18:31+08:00 ] 127.0.0.1 /index.php/Home/Login/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012091s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000562s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000845s ]
+
+[ 2016-04-21T17:18:31+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003637s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000637s ]
+
+[ 2016-04-21T17:22:41+08:00 ] 127.0.0.1 /index.php/Home/Login/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002341s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010657s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000830s ]
+
+[ 2016-04-21T17:22:41+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2016-04-21T17:24:38+08:00 ] 127.0.0.1 /index.php/Home/Login/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-04-21T17:24:38+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-04-21T17:24:58+08:00 ] 127.0.0.1 /index.php/Home/Login/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013419s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013478s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000952s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001032s ]
+
+[ 2016-04-21T17:24:59+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001172s ]
+
+[ 2016-04-21T17:25:00+08:00 ] 127.0.0.1 /index.php/Home/Login/index.php/Home/Login/verifycode?=0.8683262083213776
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002356s ]
+ERR: 非法操作:index.php
+
+[ 2016-04-21T17:25:20+08:00 ] 127.0.0.1 /index.php/Home/Login/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013620s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013690s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000874s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000965s ]
+
+[ 2016-04-21T17:25:20+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000690s ]
+
+[ 2016-04-21T17:25:21+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode?=0.668640575138852
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-04-21T17:25:22+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode?=0.714349772548303
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-04-21T17:28:02+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode?=0.7379342124331743
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-04-21T17:28:06+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+NOTIC: [2048] Declaration of Home\Model\LoginModel::check() should be compatible with Think\Model::check($value, $rule, $type = 'regex') /Users/zhangxiaojian/Sites/devweb/Application/Home/Model/LoginModel.class.php 第 4 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `login` [ RunTime:0.001697s ]
+ERR: 1146:Table 'biyesheji.login' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `login`
+NOTIC: [8] Undefined index: type /Users/zhangxiaojian/Sites/devweb/Application/Home/Model/LoginModel.class.php 第 8 行.
+NOTIC: [8] Undefined variable: tb2 /Users/zhangxiaojian/Sites/devweb/Application/Home/Model/LoginModel.class.php 第 20 行.
+NOTIC: [8] Undefined variable: tb /Users/zhangxiaojian/Sites/devweb/Application/Home/Model/LoginModel.class.php 第 20 行.
+SQL: select  * from  B left join  A on A.user=B.user where A.user='telanx' and A.pwd='900150983cd24fb0d6963f7d28e17f72' and B.status=1 [ RunTime:0.000951s ]
+ERR: 1146:Table 'biyesheji.b' doesn't exist
+ [ SQL语句 ] : select  * from  B left join  A on A.user=B.user where A.user='telanx' and A.pwd='900150983cd24fb0d6963f7d28e17f72' and B.status=1
+NOTIC: [8] Undefined variable: m /Users/zhangxiaojian/Sites/devweb/Application/Home/Controller/LoginController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-04-21T17:28:53+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.001291s ]
+ERR: 1146:Table 'biyesheji.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `home_link` [ RunTime:0.001345s ]
+SQL: SELECT * FROM `home_link` LIMIT 0,5   [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `home_plan` [ RunTime:0.001608s ]
+SQL: SELECT * FROM `home_plan`  [ RunTime:0.000294s ]
+SQL: select * from home_news order by publishtime desc limit 0,5 [ RunTime:0.000363s ]
+SQL: SHOW COLUMNS FROM `home_doc` [ RunTime:0.001460s ]
+SQL: SELECT * FROM `home_doc` LIMIT 0,5   [ RunTime:0.000264s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Use of undefined constant login - assumed 'login' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000252s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-04-21T17:28:55+08:00 ] 127.0.0.1 /index.php/Home/Login/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+NOTIC: [8] Undefined variable: error /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/5b6adcb62ad2b5dfc2abc2cd5e11dc99.php 第 194 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012368s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012476s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-04-21T17:28:55+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000894s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001148s ]
+
+[ 2016-04-21T17:29:00+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode?=0.7462802650406957
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2016-04-21T17:29:02+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode?=0.3974938071332872
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000714s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2016-04-21T17:34:11+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001977s ]
+
+[ 2016-04-21T17:40:06+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+NOTIC: [2048] Declaration of Home\Model\LoginModel::check() should be compatible with Think\Model::check($value, $rule, $type = 'regex') /Users/zhangxiaojian/Sites/devweb/Application/Home/Model/LoginModel.class.php 第 4 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `login` [ RunTime:0.001599s ]
+ERR: 1146:Table 'biyesheji.login' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `login`
+NOTIC: [8] Undefined index: user /Users/zhangxiaojian/Sites/devweb/Application/Home/Model/LoginModel.class.php 第 7 行.
+NOTIC: [8] Undefined index: type /Users/zhangxiaojian/Sites/devweb/Application/Home/Model/LoginModel.class.php 第 8 行.
+NOTIC: [8] Undefined index: pwd /Users/zhangxiaojian/Sites/devweb/Application/Home/Model/LoginModel.class.php 第 9 行.
+NOTIC: [8] Undefined index: verifycode /Users/zhangxiaojian/Sites/devweb/Application/Home/Model/LoginModel.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011487s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000961s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001048s ]
+
+[ 2016-04-21T17:40:06+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-04-21T17:41:04+08:00 ] 127.0.0.1 /index.php/Home/Login/verifycode?=0.3456429939251393
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-04-21T17:44:39+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [2048] Declaration of Home\Model\LoginModel::check() should be compatible with Think\Model::check($value, $rule, $type = 'regex') /Users/zhangxiaojian/Sites/devweb/Application/Home/Model/LoginModel.class.php 第 4 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `login` [ RunTime:0.006223s ]
+ERR: 1146:Table 'biyesheji.login' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `login`
+SQL: select  * from user_admin B left join user_admin A on A.user=B.user where A.user='telanx' and A.pwd='900150983cd24fb0d6963f7d28e17f72' and B.status=1 [ RunTime:0.001859s ]
+SQL: SHOW COLUMNS FROM `user_admin` [ RunTime:0.003388s ]
+SQL: UPDATE `user_admin` SET `lastlogin`='2016-04-21 17:44:39',`ip`='127.0.0.1' WHERE ( user='telanx' ) [ RunTime:0.003935s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005686s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005752s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-04-21T17:44:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+NOTIC: [2048] Declaration of Admin\Model\IndexModel::check() should be compatible with Think\Model::check($value, $rule, $type = 'regex') /Users/zhangxiaojian/Sites/devweb/Application/Admin/Model/IndexModel.class.php 第 4 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.001480s ]
+ERR: 1146:Table 'biyesheji.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.001773s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000490s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000657s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='bstype' )  [ RunTime:0.000654s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='bsway' )  [ RunTime:0.000316s ]
+SQL: SHOW COLUMNS FROM `sys_time` [ RunTime:0.001881s ]
+SQL: SELECT * FROM `sys_time` WHERE ( k='xt_start' )  [ RunTime:0.000428s ]
+SQL: SELECT * FROM `sys_time` WHERE ( k='xt_end' )  [ RunTime:0.000295s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009708s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2016-04-21T17:44:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/plan.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `home_plan` [ RunTime:0.009785s ]
+SQL: SELECT * FROM `home_plan` ORDER BY id  [ RunTime:0.000492s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014690s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2016-04-21T17:44:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/news.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Undefined variable: list /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/33d78a532dce9c56cf1d796e9a7153d7.php 第 338 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.017645s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017693s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-04-21T17:44:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/doc.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `home_doc` [ RunTime:0.010812s ]
+SQL: SELECT * FROM `home_doc` ORDER BY publishtime desc  [ RunTime:0.000595s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012265s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000857s ]
+
+[ 2016-04-21T17:44:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/link.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `home_link` [ RunTime:0.002402s ]
+SQL: SELECT * FROM `home_link`  [ RunTime:0.000470s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014183s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014254s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-04-21T17:44:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/plan.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `home_plan` [ RunTime:0.010208s ]
+SQL: SELECT * FROM `home_plan` ORDER BY id  [ RunTime:0.000498s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013784s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000781s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000863s ]
+
+[ 2016-04-21T17:44:46+08:00 ] 127.0.0.1 /index.php/Admin/User/account.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.001612s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000271s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000264s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010088s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-04-21T17:44:53+08:00 ] 127.0.0.1 /index.php/Admin/User/student.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.001297s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000278s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011974s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012088s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000864s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000941s ]
+
+[ 2016-04-21T17:45:00+08:00 ] 127.0.0.1 /index.php/Admin/User/student_handler.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_student` [ RunTime:0.009122s ]
+SQL: SELECT * FROM `user_student` WHERE ( user like '%%' ) LIMIT 0,7   [ RunTime:0.001038s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_student` WHERE ( user like '%%' ) LIMIT 1   [ RunTime:0.001982s ]
+
+[ 2016-04-21T17:45:03+08:00 ] 127.0.0.1 /index.php/Admin/User/student_handler.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_student` [ RunTime:0.017904s ]
+SQL: SELECT * FROM `user_student` WHERE ( user='I201114175' )  [ RunTime:0.000560s ]
+
+[ 2016-04-21T17:45:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002031s ]
+NOTIC: [2048] Declaration of Admin\Model\IndexModel::check() should be compatible with Think\Model::check($value, $rule, $type = 'regex') /Users/zhangxiaojian/Sites/devweb/Application/Admin/Model/IndexModel.class.php 第 4 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.001252s ]
+ERR: 1146:Table 'biyesheji.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.001322s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000326s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000328s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='bstype' )  [ RunTime:0.000261s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='bsway' )  [ RunTime:0.000273s ]
+SQL: SHOW COLUMNS FROM `sys_time` [ RunTime:0.001521s ]
+SQL: SELECT * FROM `sys_time` WHERE ( k='xt_start' )  [ RunTime:0.000296s ]
+SQL: SELECT * FROM `sys_time` WHERE ( k='xt_end' )  [ RunTime:0.000233s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009958s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2016-04-21T17:45:56+08:00 ] 127.0.0.1 /index.php/Admin/Bs/view.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined variable: xtTimeCheck /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/1f2b30e6338222f081f0a29215518424.php 第 26 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013484s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013615s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-04-21T17:45:56+08:00 ] 127.0.0.1 /index.php/Home/Bs/getSel.html?k=dep
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.001364s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000307s ]
+
+[ 2016-04-21T17:46:33+08:00 ] 127.0.0.1 /index.php/Admin/Bs/preview.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001942s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs` [ RunTime:0.002862s ]
+ERR: 1146:Table 'biyesheji.bs' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `bs`
+SQL: select count(*) from bs_xt [ RunTime:0.000457s ]
+SQL: select count(*) from user_student [ RunTime:0.000321s ]
+SQL: SHOW COLUMNS FROM `user_teacher` [ RunTime:0.001558s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_teacher` LIMIT 1   [ RunTime:0.000313s ]
+SQL: select count(*) from bs_kt where status=2 [ RunTime:0.000285s ]
+SQL: select count(*) from bs_kt where status=1 [ RunTime:0.000275s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000263s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011590s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011653s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000463s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000833s ]
+
+[ 2016-04-21T17:46:40+08:00 ] 127.0.0.1 /index.php/Admin/User/admin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012762s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012849s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000675s ]
+
+[ 2016-04-21T17:46:42+08:00 ] 127.0.0.1 /index.php/Admin/User/admin_handler.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_admin` [ RunTime:0.009181s ]
+SQL: SELECT * FROM `user_admin` WHERE ( user like '%%' ) LIMIT 0,10   [ RunTime:0.000540s ]
+
+[ 2016-04-21T17:46:44+08:00 ] 127.0.0.1 /index.php/Admin/User/student.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.010038s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000507s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012171s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2016-04-21T17:46:45+08:00 ] 127.0.0.1 /index.php/Admin/User/teacher.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.001829s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000405s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010805s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-04-21T17:46:48+08:00 ] 127.0.0.1 /index.php/Admin/User/teacher_handler.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_teacher` [ RunTime:0.009164s ]
+SQL: SELECT * FROM `user_teacher` WHERE ( user like '%%' ) LIMIT 0,7   [ RunTime:0.000550s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_teacher` WHERE ( user like '%%' ) LIMIT 1   [ RunTime:0.000608s ]
+
+[ 2016-04-21T17:46:50+08:00 ] 127.0.0.1 /index.php/Admin/User/teacher_edit.html?user=2011367
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.010567s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000697s ]
+SQL: SHOW COLUMNS FROM `user_teacher` [ RunTime:0.002402s ]
+SQL: SELECT * FROM `user_teacher` WHERE ( user='2011367' )  [ RunTime:0.000696s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Use of undefined constant pic - assumed 'pic' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/9450c2b136b0647e8f786b15d34168ba.php 第 49 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007443s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-04-21T17:46:56+08:00 ] 127.0.0.1 /index.php/Admin/User/student.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.001717s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000367s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011782s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011826s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2016-04-21T17:46:57+08:00 ] 127.0.0.1 /index.php/Admin/User/student_handler.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_student` [ RunTime:0.001747s ]
+SQL: SELECT * FROM `user_student` WHERE ( user like '%%' ) LIMIT 0,7   [ RunTime:0.000324s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_student` WHERE ( user like '%%' ) LIMIT 1   [ RunTime:0.000265s ]
+
+[ 2016-04-21T17:47:00+08:00 ] 127.0.0.1 /index.php/Admin/User/student_edit.html?user=I201114175
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.009609s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `user_student` [ RunTime:0.001989s ]
+SQL: SELECT * FROM `user_student` WHERE ( user='I201114175' )  [ RunTime:0.000381s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+NOTIC: [8] Use of undefined constant pic - assumed 'pic' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/0e1ed099a5f6a6bed29855ce1b76d8c8.php 第 48 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007849s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000950s ]
+
+[ 2016-04-21T17:47:29+08:00 ] 127.0.0.1 /index.php/Admin/User/student_edit.html?user=I201114175
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.006909s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `user_student` [ RunTime:0.002164s ]
+SQL: SHOW COLUMNS FROM `user_student_pwd` [ RunTime:0.002269s ]
+SQL: UPDATE `user_student_pwd` SET `user`='I201114175',`pwd`='4297f44b13955235245b2497399d7a93' WHERE ( user='I201114175' ) [ RunTime:0.000508s ]
+SQL: UPDATE `user_student` SET `name`='123',`class`='计科一班',`status`=1,`qq`='',`email`='',`cellphone`='' WHERE ( user='I201114175' ) [ RunTime:0.000653s ]
+SQL: SELECT * FROM `user_student` WHERE ( user='I201114175' )  [ RunTime:0.000328s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Use of undefined constant pic - assumed 'pic' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/0e1ed099a5f6a6bed29855ce1b76d8c8.php 第 48 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007079s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007134s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2016-04-21T17:48:07+08:00 ] 127.0.0.1 /index.php/Admin/User/student_handler.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002248s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_student` [ RunTime:0.003605s ]
+SQL: SELECT * FROM `user_student` WHERE ( user like '%%' ) LIMIT 0,7   [ RunTime:0.000437s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_student` WHERE ( user like '%%' ) LIMIT 1   [ RunTime:0.000485s ]
+
+[ 2016-04-21T17:48:08+08:00 ] 127.0.0.1 /index.php/Admin/User/student_edit.html?user=I201114175
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.011865s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000838s ]
+SQL: SHOW COLUMNS FROM `user_student` [ RunTime:0.003822s ]
+SQL: SELECT * FROM `user_student` WHERE ( user='I201114175' )  [ RunTime:0.000536s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+NOTIC: [8] Use of undefined constant pic - assumed 'pic' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/0e1ed099a5f6a6bed29855ce1b76d8c8.php 第 48 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009840s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001148s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001259s ]
+
+[ 2016-04-21T17:48:14+08:00 ] 127.0.0.1 /index.php/Admin/User/student_edit.html?user=I201114175
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.009863s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000414s ]
+SQL: SHOW COLUMNS FROM `user_student` [ RunTime:0.003105s ]
+SQL: SHOW COLUMNS FROM `user_student_pwd` [ RunTime:0.001793s ]
+SQL: UPDATE `user_student_pwd` SET `user`='I201114175',`pwd`='4297f44b13955235245b2497399d7a93' WHERE ( user='I201114175' ) [ RunTime:0.000844s ]
+SQL: UPDATE `user_student` SET `name`='123',`class`='计科一班',`status`=1,`qq`='',`email`='',`cellphone`='' WHERE ( user='I201114175' ) [ RunTime:0.000794s ]
+SQL: SELECT * FROM `user_student` WHERE ( user='I201114175' )  [ RunTime:0.000649s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Use of undefined constant pic - assumed 'pic' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/0e1ed099a5f6a6bed29855ce1b76d8c8.php 第 48 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007129s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001103s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001154s ]
+
+[ 2016-04-21T17:48:19+08:00 ] 127.0.0.1 /index.php/Admin/User/student_edit.html?user=I201114175
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.010165s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000466s ]
+SQL: SHOW COLUMNS FROM `user_student` [ RunTime:0.002168s ]
+SQL: SHOW COLUMNS FROM `user_student_pwd` [ RunTime:0.001641s ]
+SQL: UPDATE `user_student_pwd` SET `user`='I201114175',`pwd`='4297f44b13955235245b2497399d7a93' WHERE ( user='I201114175' ) [ RunTime:0.000774s ]
+SQL: UPDATE `user_student` SET `name`='123',`class`='计科一班',`status`=1,`qq`='',`email`='',`cellphone`='' WHERE ( user='I201114175' ) [ RunTime:0.000743s ]
+SQL: SELECT * FROM `user_student` WHERE ( user='I201114175' )  [ RunTime:0.000481s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Use of undefined constant pic - assumed 'pic' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/0e1ed099a5f6a6bed29855ce1b76d8c8.php 第 48 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006960s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007035s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2016-04-21T17:48:48+08:00 ] 127.0.0.1 /index.php/Admin/User/account.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.009387s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000359s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000272s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011215s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2016-04-21T17:49:38+08:00 ] 127.0.0.1 /index.php/Admin/User/student.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.008901s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000452s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012972s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013043s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000507s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000565s ]
+
+[ 2016-04-21T17:49:40+08:00 ] 127.0.0.1 /index.php/Admin/User/student_handler.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_student` [ RunTime:0.010533s ]
+SQL: SELECT * FROM `user_student` WHERE ( user like '%%' ) LIMIT 0,7   [ RunTime:0.000532s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_student` WHERE ( user like '%%' ) LIMIT 1   [ RunTime:0.000415s ]
+
+[ 2016-04-21T17:49:42+08:00 ] 127.0.0.1 /index.php/Admin/User/student_edit.html?user=I201114175
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.010605s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `user_student` [ RunTime:0.002942s ]
+SQL: SELECT * FROM `user_student` WHERE ( user='I201114175' )  [ RunTime:0.000523s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Use of undefined constant pic - assumed 'pic' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/0e1ed099a5f6a6bed29855ce1b76d8c8.php 第 48 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006087s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006153s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000871s ]
+
+[ 2016-04-21T17:49:47+08:00 ] 127.0.0.1 /index.php/Admin/User/student_edit.html?user=I201114175
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.009706s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `user_student` [ RunTime:0.002081s ]
+SQL: SHOW COLUMNS FROM `user_student_pwd` [ RunTime:0.001763s ]
+SQL: UPDATE `user_student_pwd` SET `user`='I201114175',`pwd`='96e79218965eb72c92a549dd5a330112' WHERE ( user='I201114175' ) [ RunTime:0.000792s ]
+SQL: UPDATE `user_student` SET `name`='123',`class`='计科一班',`status`=1,`qq`='',`email`='',`cellphone`='' WHERE ( user='I201114175' ) [ RunTime:0.000690s ]
+SQL: SELECT * FROM `user_student` WHERE ( user='I201114175' )  [ RunTime:0.000476s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Use of undefined constant pic - assumed 'pic' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/0e1ed099a5f6a6bed29855ce1b76d8c8.php 第 48 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008384s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008442s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-04-21T18:04:39+08:00 ] 127.0.0.1 /index.php/Admin/User/teacher.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001600s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.001862s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000489s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014343s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000882s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000980s ]
+
+[ 2016-04-21T18:04:40+08:00 ] 127.0.0.1 /index.php/Admin/User/teacher_handler.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `user_teacher` [ RunTime:0.001488s ]
+SQL: SELECT * FROM `user_teacher` WHERE ( user like '%%' ) LIMIT 0,7   [ RunTime:0.000380s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_teacher` WHERE ( user like '%%' ) LIMIT 1   [ RunTime:0.000240s ]
+
+[ 2016-04-21T18:04:44+08:00 ] 127.0.0.1 /index.php/Admin/User/teacher_edit.html?user=2011367
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.011345s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000489s ]
+SQL: SHOW COLUMNS FROM `user_teacher` [ RunTime:0.001692s ]
+SQL: SELECT * FROM `user_teacher` WHERE ( user='2011367' )  [ RunTime:0.000354s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Use of undefined constant pic - assumed 'pic' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/9450c2b136b0647e8f786b15d34168ba.php 第 49 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006746s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006827s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000244s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000910s ]
+
+[ 2016-04-21T18:04:52+08:00 ] 127.0.0.1 /index.php/Admin/User/teacher_edit.html?user=2011367
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.010190s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000486s ]
+SQL: SHOW COLUMNS FROM `user_teacher` [ RunTime:0.002148s ]
+SQL: SHOW COLUMNS FROM `user_teacher_pwd` [ RunTime:0.001628s ]
+SQL: UPDATE `user_teacher_pwd` SET `user`='2011367',`pwd`='4297f44b13955235245b2497399d7a93' WHERE ( user='2011367' ) [ RunTime:0.001384s ]
+SQL: UPDATE `user_teacher` SET `name`='王多强',`dep`='计算所',`type`=3,`status`='1',`bsnum`=0,`qq`='12132',`email`='123132123',`cellphone`='',`officephone`='' WHERE ( user='2011367' ) [ RunTime:0.000934s ]
+SQL: SELECT * FROM `user_teacher` WHERE ( user='2011367' )  [ RunTime:0.000554s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Use of undefined constant pic - assumed 'pic' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/9450c2b136b0647e8f786b15d34168ba.php 第 49 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008907s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008961s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2016-04-21T18:05:15+08:00 ] 127.0.0.1 /index.php/Admin/User/admin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.017972s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018018s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2016-04-21T18:05:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+NOTIC: [2048] Declaration of Admin\Model\IndexModel::check() should be compatible with Think\Model::check($value, $rule, $type = 'regex') /Users/zhangxiaojian/Sites/devweb/Application/Admin/Model/IndexModel.class.php 第 4 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.031684s ]
+ERR: 1146:Table 'biyesheji.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.018660s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000549s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000465s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='bstype' )  [ RunTime:0.000456s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='bsway' )  [ RunTime:0.000460s ]
+SQL: SHOW COLUMNS FROM `sys_time` [ RunTime:0.001961s ]
+SQL: SELECT * FROM `sys_time` WHERE ( k='xt_start' )  [ RunTime:0.000453s ]
+SQL: SELECT * FROM `sys_time` WHERE ( k='xt_end' )  [ RunTime:0.000369s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009820s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-04-21T18:05:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/doc.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `home_doc` [ RunTime:0.010390s ]
+SQL: SELECT * FROM `home_doc` ORDER BY publishtime desc  [ RunTime:0.000761s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012908s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012973s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-04-21T18:05:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/news.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8] Undefined variable: list /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/33d78a532dce9c56cf1d796e9a7153d7.php 第 338 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.019553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019614s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000187s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000511s ]
+
+[ 2016-04-21T18:05:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/plan.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `home_plan` [ RunTime:0.010323s ]
+SQL: SELECT * FROM `home_plan` ORDER BY id  [ RunTime:0.000552s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014024s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000726s ]
+
+[ 2016-04-21T18:05:30+08:00 ] 127.0.0.1 /index.php/Admin/Bs/view.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+NOTIC: [8] Undefined variable: xtTimeCheck /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/1f2b30e6338222f081f0a29215518424.php 第 26 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014746s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-04-21T18:05:30+08:00 ] 127.0.0.1 /index.php/Home/Bs/getSel.html?k=dep
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.001596s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000368s ]
+
+[ 2016-04-21T18:05:31+08:00 ] 127.0.0.1 /index.php/Admin/Bs/kt_handler.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs` [ RunTime:0.001498s ]
+ERR: 1146:Table 'biyesheji.bs' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `bs`
+SQL: select count(*) from bs_kt inner join user_teacher on bs_kt.teacher=user_teacher.user where 1=1 and bs_kt.name like '%%' and bs_kt.status=3 [ RunTime:0.001086s ]
+SQL: select bs_kt.id,bs_kt.name as bname,bs_kt.teacher as tuser,user_teacher.name as tname,user_teacher.dep,user_student.user as suser,user_student.name as sname from bs_kt left join user_teacher on bs_kt.teacher=user_teacher.user left join user_student on user_student.user in (select sid from bs_xt where bs_xt.bid = bs_kt.id) where 1=1 and bs_kt.name like '%%' and bs_kt.status=3 group by bs_kt.id limit 0,10 [ RunTime:0.006294s ]
+
+[ 2016-04-21T18:05:33+08:00 ] 127.0.0.1 /index.php/Student/Bs/kt_info.html?id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt` [ RunTime:0.002397s ]
+SQL: select bs_kt.name as bname,bs_kt.require,bs_kt.type,bs_kt.way,bs_kt.content,bs_kt.goal,user_teacher.name as tname,user_teacher.dep,user_teacher.email from bs_kt left join user_teacher on bs_kt.teacher=user_teacher.user where bs_kt.id=1 [ RunTime:0.000455s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000211s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2016-04-21T18:05:42+08:00 ] 127.0.0.1 /index.php/Student/Bs/kt_info.html?id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt` [ RunTime:0.008237s ]
+SQL: select bs_kt.name as bname,bs_kt.require,bs_kt.type,bs_kt.way,bs_kt.content,bs_kt.goal,user_teacher.name as tname,user_teacher.dep,user_teacher.email from bs_kt left join user_teacher on bs_kt.teacher=user_teacher.user where bs_kt.id=2 [ RunTime:0.000618s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000182s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2016-04-21T18:05:46+08:00 ] 127.0.0.1 /index.php/Admin/Bs/history.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016262s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000187s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2016-04-21T18:05:47+08:00 ] 127.0.0.1 /index.php/Admin/Bs/view.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+NOTIC: [8] Undefined variable: xtTimeCheck /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Admin/1f2b30e6338222f081f0a29215518424.php 第 26 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.020731s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020810s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000199s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000945s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001052s ]
+
+[ 2016-04-21T18:05:47+08:00 ] 127.0.0.1 /index.php/Home/Bs/getSel.html?k=dep
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.002464s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000287s ]
+
+[ 2016-04-21T18:05:48+08:00 ] 127.0.0.1 /index.php/Admin/Bs/preview.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs` [ RunTime:0.009419s ]
+ERR: 1146:Table 'biyesheji.bs' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `bs`
+SQL: select count(*) from bs_xt [ RunTime:0.000419s ]
+SQL: select count(*) from user_student [ RunTime:0.000401s ]
+SQL: SHOW COLUMNS FROM `user_teacher` [ RunTime:0.002399s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_teacher` LIMIT 1   [ RunTime:0.000420s ]
+SQL: select count(*) from bs_kt where status=2 [ RunTime:0.000451s ]
+SQL: select count(*) from bs_kt where status=1 [ RunTime:0.000395s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000216s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000292s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007824s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-04-21T18:05:52+08:00 ] 127.0.0.1 /index.php/Admin/Sys/init.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `sys` [ RunTime:0.001863s ]
+ERR: 1146:Table 'biyesheji.sys' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sys`
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009651s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-04-21T18:05:53+08:00 ] 127.0.0.1 /index.php/Admin/Sys/sel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.006848s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000494s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000395s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='bstype' )  [ RunTime:0.000332s ]
+SQL: SELECT `v` FROM `bs_kt_sel` WHERE ( k='bsway' )  [ RunTime:0.000288s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016302s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-04-21T18:05:55+08:00 ] 127.0.0.1 /index.php/Admin/Sys/time.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `sys` [ RunTime:0.009780s ]
+ERR: 1146:Table 'biyesheji.sys' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sys`
+SQL: SHOW COLUMNS FROM `sys_time` [ RunTime:0.002347s ]
+SQL: SELECT `v` FROM `sys_time` WHERE ( k='xt_start' )  [ RunTime:0.000464s ]
+SQL: SELECT `v` FROM `sys_time` WHERE ( k='kt_start' )  [ RunTime:0.000462s ]
+SQL: SELECT `v` FROM `sys_time` WHERE ( k='xt_end' )  [ RunTime:0.000457s ]
+SQL: SELECT `v` FROM `sys_time` WHERE ( k='kt_end' )  [ RunTime:0.000461s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008301s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2016-04-21T18:05:58+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+NOTIC: [2048] Declaration of Admin\Model\IndexModel::check() should be compatible with Think\Model::check($value, $rule, $type = 'regex') /Users/zhangxiaojian/Sites/devweb/Application/Admin/Model/IndexModel.class.php 第 4 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.001070s ]
+ERR: 1146:Table 'biyesheji.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `bs_kt_sel` [ RunTime:0.001392s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='class' )  [ RunTime:0.000345s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='dep' )  [ RunTime:0.000257s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='bstype' )  [ RunTime:0.000242s ]
+SQL: SELECT * FROM `bs_kt_sel` WHERE ( k='bsway' )  [ RunTime:0.000293s ]
+SQL: SHOW COLUMNS FROM `sys_time` [ RunTime:0.001733s ]
+SQL: SELECT * FROM `sys_time` WHERE ( k='xt_start' )  [ RunTime:0.000353s ]
+SQL: SELECT * FROM `sys_time` WHERE ( k='xt_end' )  [ RunTime:0.000299s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005759s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005804s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000314s ]
+
+[ 2016-04-21T22:26:05+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002754s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/zhangxiaojian/Sites/devweb/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.006326s ]
+ERR: 1146:Table 'biyesheji.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `home_link` [ RunTime:0.006557s ]
+SQL: SELECT * FROM `home_link` LIMIT 0,5   [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `home_plan` [ RunTime:0.005464s ]
+SQL: SELECT * FROM `home_plan`  [ RunTime:0.000429s ]
+SQL: select * from home_news order by publishtime desc limit 0,5 [ RunTime:0.004488s ]
+SQL: SHOW COLUMNS FROM `home_doc` [ RunTime:0.005693s ]
+SQL: SELECT * FROM `home_doc` LIMIT 0,5   [ RunTime:0.000429s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Use of undefined constant login - assumed 'login' /Users/zhangxiaojian/Sites/devweb/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.018984s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000981s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001200s ]
+

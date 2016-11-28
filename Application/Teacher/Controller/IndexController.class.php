@@ -30,6 +30,10 @@ class IndexController extends Controller {
 		$this->assign('user',$rs_user[0]);
 		
 		$ttype = public_user_ttype();
+		// 2016-5-31
+		$kt_count = M('bs_kt')->where("teacher='$user' and status=0")->count();
+		$this->assign('kt_count',$kt_count);
+		// 2016-5-31
 		$this->assign("ttype",$ttype);
 		$this->display();
     }	
